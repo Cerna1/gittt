@@ -1,3 +1,7 @@
+
+se inicio la version v.2.2
+
+
 # cabecera H1
 ## cabecera H1
 ### cabecera H1
